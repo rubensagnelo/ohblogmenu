@@ -7,6 +7,8 @@
 import { HTMLStencilElement, JSXBase } from "@stencil/core/internal";
 export namespace Components {
     interface OhblogMenu {
+        "backColor": string;
+        "imagem": string;
         "titulos": string;
     }
 }
@@ -23,6 +25,8 @@ declare global {
 }
 declare namespace LocalJSX {
     interface OhblogMenu {
+        "backColor"?: string;
+        "imagem"?: string;
         "titulos"?: string;
     }
     interface IntrinsicElements {

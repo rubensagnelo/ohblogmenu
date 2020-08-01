@@ -7,9 +7,11 @@
 
 ## Properties
 
-| Property  | Attribute | Description | Type     | Default     |
-| --------- | --------- | ----------- | -------- | ----------- |
-| `titulos` | `titulos` |             | `string` | `undefined` |
+| Property    | Attribute    | Description | Type     | Default     |
+| ----------- | ------------ | ----------- | -------- | ----------- |
+| `backColor` | `back-color` |             | `string` | `undefined` |
+| `imagem`    | `imagem`     |             | `string` | `undefined` |
+| `titulos`   | `titulos`    |             | `string` | `undefined` |
 
 
 ----------------------------------------------

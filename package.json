@@ -1,6 +1,6 @@
 {
   "name": "ohblogmenu",
-  "version": "1.0.2",
+  "version": "1.0.6",
   "description": "Componente de menu para o blog ohblog (Componente Stencil)",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
