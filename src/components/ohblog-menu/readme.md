@@ -12,6 +12,7 @@
 | `backColor` | `back-color` |             | `string` | `undefined` |
 | `imagem`    | `imagem`     |             | `string` | `undefined` |
 | `titulos`   | `titulos`    |             | `string` | `undefined` |
+| `urls`      | `urls`       |             | `string` | `undefined` |
 
 
 ----------------------------------------------

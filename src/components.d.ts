@@ -10,6 +10,7 @@ export namespace Components {
         "backColor": string;
         "imagem": string;
         "titulos": string;
+        "urls": string;
     }
 }
 declare global {
@@ -28,6 +29,7 @@ declare namespace LocalJSX {
         "backColor"?: string;
         "imagem"?: string;
         "titulos"?: string;
+        "urls"?: string;
     }
     interface IntrinsicElements {
         "ohblog-menu": OhblogMenu;
