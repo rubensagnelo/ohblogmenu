@@ -1,5 +1,5 @@
 .ohblogmenu-wrapper {
-  height: 90px;
+  height: 110px;
   background-color: #616bfb;
   align-items: center;
   justify-content: right;
@@ -75,8 +75,10 @@ ohblog-menu-submenu {
     display: block;
     padding: 7px 7px 7px 16px;
     white-space: nowrap;
-    width: 80px;
+    width: 130px;
     text-decoration-color: red;
+    text-align: center;
+    
 }
 
 .ohblogmenuimg {
